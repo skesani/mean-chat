@@ -4,11 +4,13 @@ This is a chat application that can be used for local usage in a small network. 
 # Instructions to run
 Clone the project
 ```
-git clone https://github.com/sudheeshshetty/Chat.git
+git clone https://github.com/skesani/mean-chat.git
 ```
 
 ### DataBase - Mongo
 * Check if mongodb service is running in your machine else start the service.
+install mongo from here.
+https://treehouse.github.io/installation-guides/mac/mongo-mac.html
 
 ### Server
 * You need to have node and npm installed in your machine.
@@ -46,8 +48,5 @@ I have lot of things to do.
 * Option for saving chats in case you need it. For now it doesnot store the messages.
 
 # Suggestions
-If you have any suggestions please do mail me at `sudheeshshetty@gmail.com` with subject as `chat-suggestions`
+If you have any suggestions please do mail me at `followsasi@gmail.com` with subject as `chat-suggestions`
 
-# Credits
-I have used some code from AdminLTE for the chat UI. The HTML and dependent CSS.  
-The private chat box has been taken from [Gurdeep Osahan](http://bootsnipp.com/Gurdeep%20Osahan).
